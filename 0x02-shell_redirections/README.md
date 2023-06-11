@@ -1,2 +1,1 @@
-shell_redirections
-Hello World
+0x02. Shell, I/O Redirections and filters
